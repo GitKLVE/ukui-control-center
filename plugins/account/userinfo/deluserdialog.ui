@@ -54,16 +54,16 @@
        <number>0</number>
       </property>
       <property name="leftMargin">
-       <number>32</number>
+       <number>44</number>
       </property>
       <property name="topMargin">
        <number>32</number>
       </property>
       <property name="rightMargin">
-       <number>32</number>
+       <number>44</number>
       </property>
       <property name="bottomMargin">
-       <number>24</number>
+       <number>42</number>
       </property>
       <item>
        <layout class="QVBoxLayout" name="verticalLayout_3">
@@ -277,7 +277,7 @@
             <property name="sizeHint" stdset="0">
              <size>
               <width>20</width>
-              <height>40</height>
+              <height>32</height>
              </size>
             </property>
            </spacer>
